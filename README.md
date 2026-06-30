@@ -80,7 +80,57 @@ The pipeline is organized into discrete processing stages so each candidate reco
 
 ## Implementation Screenshots
 
-No screenshots are included in this repo yet. The Streamlit UI is the primary review surface for input upload and result inspection.
+### 🏠 Streamlit UI
+
+![Home Page](docs/screenshots/home.png)
+
+---
+
+### 📂 Upload Candidate Files
+
+![Upload](docs/screenshots/upload-files.png)
+
+---
+
+### ⚙️ Processing Pipeline
+
+![Processing](docs/screenshots/processing.png)
+
+---
+
+### 👤 Candidate Profile Cards
+
+![Profile Cards](docs/screenshots/profile-card.png)
+
+---
+
+### 📄 Canonical Candidate JSON
+
+![Candidate JSON](docs/screenshots/candidate-json.png)
+
+---
+
+### ⚙️ Configurable Output
+
+![Config Output](docs/screenshots/config-output.png)
+
+---
+
+### 👨‍💼 Recruiter View
+
+![Recruiter View](docs/screenshots/recruiter-output.png)
+
+---
+
+### 📈 Confidence Scoring
+
+![Confidence](docs/screenshots/confidence.png)
+
+---
+
+### 🔍 Provenance Tracking
+
+![Provenance](docs/screenshots/provenance.png)
 
 ## Repository Structure
 
