@@ -1,0 +1,29 @@
+{
+  "octocat": {
+    "user": {
+      "login": "octocat",
+      "id": 583231,
+      "name": "The Octocat",
+      "email": null,
+      "bio": "GitHub mascot",
+      "location": "San Francisco",
+      "blog": "https://github.blog",
+      "public_repos": 8,
+      "html_url": "https://github.com/octocat"
+    },
+    "repos": [
+      {
+        "name": "Hello-World",
+        "html_url": "https://github.com/octocat/Hello-World",
+        "language": "JavaScript",
+        "stargazers_count": 1900
+      },
+      {
+        "name": "Spoon-Knife",
+        "html_url": "https://github.com/octocat/Spoon-Knife",
+        "language": "HTML",
+        "stargazers_count": 12000
+      }
+    ]
+  }
+}
