@@ -133,33 +133,28 @@ This engine transforms candidate data from resumes, ATS exports, recruiter CSV f
 
 ###  Upload Candidate Files
 
-![Upload](docs/screenshots/upload-files.png)
+![Upload](docs/screenshots/input.png)
 
 ---
 
 ###  Processing Pipeline
 
-![Processing](docs/screenshots/processing.png)
+![Processing](docs/screenshots/process.png)
 
 ---
 
 ###  Canonical Candidate JSON
 
-![Candidate JSON](docs/screenshots/candidate-json.png)
+![Candidate JSON](docs/screenshots/candidate.png)
 
 ---
 
 ###  Configurable Output
 
-![Config Output](docs/screenshots/config-output.png)
+![Config Output](docs/screenshots/configurable.png)
 
 ---
 
-###  Confidence Scoring
-
-![Confidence](docs/screenshots/confidence.png)
-
----
 
 ## Repository Structure
 
