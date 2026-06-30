@@ -1,4 +1,4 @@
-﻿## Multi-Source Candidate Data Transformer
+﻿# Multi-Source Candidate Data Transformer
 
 A production-inspired multi-agent pipeline that ingests structured and unstructured candidate data, transforms it into a canonical candidate profile through normalization, entity resolution, conflict resolution, confidence scoring, provenance tracking, and configurable output generation.
 
