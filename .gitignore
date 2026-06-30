@@ -1,0 +1,41 @@
+# Python environment
+.venv/
+venv/
+ENV/
+env/
+
+# Python bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Pytest
+.pytest_cache/
+
+# Editor and OS files
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*.tmp
+*.bak
+
+# Streamlit / temporary files
+*.lock
+*.log
+
+# Local secrets and config
+.env
+configu.json
+
+# Project output
+output/
+
+# Temporary artifacts
+tmp_*
+
+# Virtual environment files or local package builds
+pip-wheel-metadata/
+
+# Optional caches
+.cache/

@@ -1,0 +1,29 @@
+[
+  {
+    "candidate_id": "C001",
+    "candidateName": "Tarun Jayant V M",
+    "mail": "tarunjayant.2301250@srec.ac.in",
+    "mobile": "+91-6385582585",
+    "currentOrg": "Infosys",
+    "designation": "AI & Machine Learning Intern",
+    "totalExp": 1,
+    "skillSet": [
+      "Java",
+      "C",
+      "C++",
+      "Python",
+      "Spring Boot",
+      "Flask",
+      "FastAPI",
+      "PyTorch"
+    ],
+    "educationDetails": [
+      {
+        "institute": "Sri Ramakrishna Engineering College",
+        "degree": "B.E. Computer Science and Engineering",
+        "passYear": "2027"
+      }
+    ]
+  }
+  
+]
