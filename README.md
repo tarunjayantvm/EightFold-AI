@@ -1,4 +1,4 @@
-﻿# Candidate Intelligence Transformation Engine
+﻿# Multi-Source Candidate Data Transformer
 
 A deterministic candidate intelligence pipeline that ingests heterogeneous candidate data, groups duplicate records, builds canonical candidate profiles, and produces explainable presentation-ready JSON output.
 
