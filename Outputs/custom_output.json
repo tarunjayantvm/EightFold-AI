@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Tarun Jayant V M",
+    "email": "tarunjayant.2301250@srec.ac.in",
+    "phone": "+916385582585",
+    "linkedin": "https://www.linkedin.com/in/tarun-jayant-v-m-49a691292/",
+    "github": null,
+    "education": [],
+    "experience": [],
+    "projects": [],
+    "certifications": [],
+    "_validation": {
+      "passed": false,
+      "errors": [
+        "full_name is missing or empty."
+      ],
+      "warnings": []
+    }
+  }
+]
