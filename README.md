@@ -226,7 +226,8 @@ This repo does not include a dedicated resume sample folder. Provide your own re
 
 Generated pipeline artifacts are written to:
 
-- `output/output.json`
+- `output/output.json` — canonical pipeline output when no projection config is used
+- `output/custom_output.json` — configurable projection output when a projection config is provided
 
 ## Regenerating Output Artifacts
 
