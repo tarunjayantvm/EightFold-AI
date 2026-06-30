@@ -1,0 +1,599 @@
+[
+  {
+    "candidate_id": "C001",
+    "full_name": "Tarun Jayant V M",
+    "emails": [
+      "tarunjayant.2301250@srec.ac.in"
+    ],
+    "phones": [
+      "+916385582585"
+    ],
+    "location": {
+      "city": "Coimbatore",
+      "region": "Tamil Nadu",
+      "country": "IN"
+    },
+    "links": {
+      "linkedin": "https://www.linkedin.com/in/tarun-jayant-v-m-49a691292/",
+      "github": null,
+      "portfolio": null,
+      "other": []
+    },
+    "headline": "AI & Machine Learning Intern",
+    "years_experience": 1.4,
+    "skills": [
+      "Java",
+      "C",
+      "C++",
+      "Python",
+      "Spring Boot",
+      "Flask",
+      "FastAPI",
+      "PyTorch",
+      "Build",
+      "Ibm Cloud Lite",
+      "Svm) To Forecast 3+ Failure",
+      "Categories \u2014 Tool Wear",
+      "Overheating",
+      "Hcl Tech Stack: Java",
+      "SQL",
+      "JPA/Hibernate",
+      "Implementing Complete Crud",
+      "Enabling",
+      "Projects",
+      "React",
+      "TypeScript",
+      "Claude Api May 2026",
+      "Across 3 Operator Profiles",
+      "A Context-Aware Ui",
+      "Hl7",
+      "Fhir",
+      "Dicom",
+      "Docker",
+      "Python Aug 2025",
+      "Causing",
+      "Integrating Hl7",
+      "Fhir (Hapi Fhir) And",
+      "Manual Configuration.",
+      "Across Fhir And Dicom Systems.",
+      "Skills",
+      "\u2022 Languages: Java",
+      "\u2022 Frameworks: Spring Boot",
+      "\u2022 Web & Api: Restful Apis",
+      "Microservices",
+      "Html",
+      "Css",
+      "JavaScript",
+      "\u2022 Databases: Sql",
+      "MySQL",
+      "\u2022 Tools",
+      "Platforms & Technologies: Git",
+      "GitHub",
+      "Postman",
+      "VS Code",
+      "Intellij Idea",
+      "OpenCL",
+      "CUDA",
+      "Render Script",
+      "Certifications",
+      "Amazon Web Services"
+    ],
+    "experience": [
+      {
+        "company": "Infosys",
+        "title": "AI & Machine Learning Intern",
+        "location": "",
+        "start": "",
+        "end": "",
+        "duration": "",
+        "tech_stack": [],
+        "summary": "",
+        "achievements": []
+      },
+      {
+        "company": "inference output.",
+        "title": "AI & Machine Learning Intern Oct 2025 \u2013 Dec 2025",
+        "location": "Sri Ramakrishna Engineering College, Coimbatore CGPA: 8.72 / 10",
+        "start": "2023-01",
+        "end": "2023-01",
+        "duration": "",
+        "tech_stack": [
+          "PyTorch"
+        ],
+        "summary": "d in building compute-intensive pipelines, modular software systems, and",
+        "achievements": [
+          "deploying ML models \u2014 keen to contribute to parallel programming.",
+          "Bharatiya Vidya Bhavan Matric Hr. Secondary School, Coimbatore Score: 95.5%",
+          "SSLC \u2013 10th Grade Jun 2020 \u2013 Mar 2021",
+          "Angappa CBSE Senior Secondary School, Coimbatore Score: 93.4%",
+          "Designed and trained a custom U-Net\u2013based binary image segmentation model in PyTorch, achieving 84% segmentation",
+          "accuracy and reducing manual subject detection effort across the processing pipeline.",
+          "Automated end-to-end subject extraction workflow, improving image processing throughput by 3\u00d7 with deployment-ready",
+          "AI/ML Intern \u2013 AICTE Jul 2025 \u2013 Aug 2025"
+        ]
+      },
+      {
+        "company": "manual configuration.",
+        "title": "Software Development Intern Dec 2024 \u2013 Jan 2025",
+        "location": null,
+        "start": "2026-01",
+        "end": "2025-01",
+        "duration": null,
+        "tech_stack": [
+          "Java"
+        ],
+        "summary": "Built a Predictive Maintenance system using ML classification models (Random Forest, SVM) to forecast 3+ failure",
+        "achievements": [
+          "categories \u2014 tool wear, overheating, and power faults \u2014 achieving over 88% classification accuracy.",
+          "Deployed AI models on IBM Cloud Lite to process real-time industrial sensor data, delivering predictive maintenance alerts and",
+          "reducing projected unplanned downtime by 30%.",
+          "operations across 5+ modules and improving data handling efficiency by 35%.",
+          "Designed normalized database schemas using JPA/Hibernate and built RESTful APIs serving 10+ endpoints, enabling",
+          "faster data retrieval and reliable client-server communication.",
+          "Industrial operators managing 6 plant metrics lacked real-time AI guidance across roles, causing slow alarm response and poor",
+          "situational awareness on the shop floor.",
+          "Built an AI-driven HMI dashboard integrating Anthropic Claude API as a real-time copilot with role-specific guidance",
+          "across 3 operator profiles, a context-aware UI, and SCADA telemetry simulation \u2014 reducing operator alarm response time.",
+          "Architected full alarm lifecycle management (Active \u2192 Acknowledged \u2192 Resolved) with complete audit trail logging and Web",
+          "Speech API voice alerts across 5 equipment types, improving critical decision accuracy by 35%.",
+          "Hospitals using 2+ disconnected clinical systems (EHR and PACS) had no standardized real-time data exchange, causing",
+          "delays in patient record access and zero imaging traceability across departments.",
+          "Developed a Model Context Protocol (MCP) Server with GE Healthcare, integrating HL7/FHIR (HAPI FHIR) and",
+          "DICOM (Orthanc PACS) pipelines via Dockerized microservice deployment \u2014 cutting integration setup time by 40% vs.",
+          "Integrated LLM-powered clinical querying using Perplexity Sonar Pro, enabling real-time retrieval and analysis of patient data"
+        ]
+      },
+      {
+        "company": "Databases: SQL, MySQL, JPA/Hibernate",
+        "title": null,
+        "location": null,
+        "start": "2025-01",
+        "end": null,
+        "duration": "1 years 5 months",
+        "tech_stack": [
+          "Platforms & Technologies"
+        ],
+        "summary": "across FHIR and DICOM systems.",
+        "achievements": [
+          "Languages: Java, C, C++, Python",
+          "Frameworks: Spring Boot, Flask, FastAPI, PyTorch",
+          "Web & API: RESTful APIs, Microservices, HTML, CSS, JavaScript",
+          "Amazon Web Services"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "institution": "Sri Ramakrishna Engineering College",
+        "degree": "B.E. Computer Science and Engineering",
+        "field": "",
+        "start_year": "",
+        "end_year": "2027-01",
+        "cgpa": "",
+        "location": ""
+      },
+      {
+        "institution": "Sri Ramakrishna Engineering College, Coimbatore CGPA: 8.72 / 10",
+        "degree": "B.E. Computer Science and Engineering Sep 2023 \u2013 May 2027",
+        "field": "",
+        "start_year": "2022-01",
+        "end_year": "2023-01",
+        "cgpa": "",
+        "location": "Bharatiya Vidya Bhavan Matric Hr. Secondary School, Coimbatore Score: 95.5%"
+      }
+    ],
+    "projects": [
+      {
+        "title": "Industrial operators managing 6 plant metrics lacked real-time AI guidance across roles, causing slow alarm response and poor",
+        "description": "",
+        "tech_stack": [],
+        "duration": "",
+        "highlights": []
+      },
+      {
+        "title": "Built an AI-driven HMI dashboard integrating Anthropic Claude API as a real-time copilot with role-specific guidance",
+        "description": "",
+        "tech_stack": [],
+        "duration": "",
+        "highlights": []
+      },
+      {
+        "title": "Architected full alarm lifecycle management (Active \u2192 Acknowledged \u2192 Resolved) with complete audit trail logging and Web",
+        "description": "",
+        "tech_stack": [],
+        "duration": "",
+        "highlights": []
+      },
+      {
+        "title": "Hospitals using 2+ disconnected clinical systems (EHR and PACS) had no standardized real-time data exchange, causing",
+        "description": "",
+        "tech_stack": [],
+        "duration": "",
+        "highlights": []
+      },
+      {
+        "title": "Developed a Model Context Protocol (MCP) Server with GE Healthcare, integrating HL7/FHIR (HAPI FHIR) and",
+        "description": "",
+        "tech_stack": [],
+        "duration": "",
+        "highlights": []
+      },
+      {
+        "title": "Integrated LLM-powered clinical querying using Perplexity Sonar Pro, enabling real-time retrieval and analysis of patient data",
+        "description": "",
+        "tech_stack": [],
+        "duration": "",
+        "highlights": []
+      },
+      {
+        "title": "Languages: Java, C, C++, Python",
+        "description": "",
+        "tech_stack": [],
+        "duration": "",
+        "highlights": []
+      },
+      {
+        "title": "Frameworks: Spring Boot, Flask, FastAPI, PyTorch",
+        "description": "",
+        "tech_stack": [],
+        "duration": "",
+        "highlights": []
+      },
+      {
+        "title": "Web & API: RESTful APIs, Microservices, HTML, CSS, JavaScript",
+        "description": "",
+        "tech_stack": [],
+        "duration": "",
+        "highlights": []
+      },
+      {
+        "title": "Databases: SQL, MySQL, JPA/Hibernate",
+        "description": "",
+        "tech_stack": [],
+        "duration": "",
+        "highlights": []
+      },
+      {
+        "title": "Tools, Platforms & Technologies: Git, GitHub, Docker, Postman, VS Code, IntelliJ IDEA, OpenCL, CUDA, Render script",
+        "description": "",
+        "tech_stack": [],
+        "duration": "",
+        "highlights": []
+      },
+      {
+        "title": "AWS Certified Cloud Practitioner Jun 2025",
+        "description": "",
+        "tech_stack": [],
+        "duration": "",
+        "highlights": []
+      }
+    ],
+    "certifications": [
+      {
+        "name": "\u2022 AWS Certified Cloud Practitioner Jun 2025",
+        "issuer": "",
+        "date": ""
+      },
+      {
+        "name": "Amazon Web Services",
+        "issuer": "",
+        "date": ""
+      }
+    ],
+    "_sources": [
+      "csv",
+      "ats_json",
+      "resume_pdf"
+    ],
+    "_conflict_log": [],
+    "field_confidence": {
+      "full_name": 1.0,
+      "emails": 1.0,
+      "phones": 1.0,
+      "headline": 0.9,
+      "skills": 0.9,
+      "experience": 0.9,
+      "education": 0.9,
+      "location": 0.9,
+      "links": 0.9
+    },
+    "overall_confidence": 0.93,
+    "provenance": [
+      {
+        "field": "full_name",
+        "sources": [
+          {
+            "field": "full_name",
+            "source": "csv",
+            "method": "csv_parse",
+            "confidence": 0.8,
+            "page": 1,
+            "section": "Identity",
+            "value": "Tarun Jayant V M",
+            "timestamp": "2026-06-30T17:05:17.910019+00:00"
+          },
+          {
+            "field": "full_name",
+            "source": "ats_json",
+            "method": "json_parse",
+            "confidence": 0.8,
+            "page": 1,
+            "section": "Identity",
+            "value": "Tarun Jayant V M",
+            "timestamp": "2026-06-30T17:05:17.910019+00:00"
+          },
+          {
+            "field": "full_name",
+            "source": "resume_pdf",
+            "method": "regex + rule parser",
+            "confidence": 0.9,
+            "page": 1,
+            "section": "Identity",
+            "value": "Tarun Jayant V M",
+            "timestamp": "2026-06-30T17:05:17.910019+00:00"
+          }
+        ],
+        "final_source": "resume_pdf"
+      },
+      {
+        "field": "emails",
+        "sources": [
+          {
+            "field": "emails",
+            "source": "csv",
+            "method": "csv_parse",
+            "confidence": 0.8,
+            "page": 1,
+            "section": "Contact",
+            "value": "['tarunjayant.2301250@srec.ac.in']",
+            "timestamp": "2026-06-30T17:05:17.910019+00:00"
+          },
+          {
+            "field": "emails",
+            "source": "ats_json",
+            "method": "json_parse",
+            "confidence": 0.8,
+            "page": 1,
+            "section": "Contact",
+            "value": "['tarunjayant.2301250@srec.ac.in']",
+            "timestamp": "2026-06-30T17:05:17.910019+00:00"
+          },
+          {
+            "field": "emails",
+            "source": "resume_pdf",
+            "method": "regex + rule parser",
+            "confidence": 0.9,
+            "page": 1,
+            "section": "Contact",
+            "value": "['tarunjayant.2301250@srec.ac.in']",
+            "timestamp": "2026-06-30T17:05:17.910019+00:00"
+          }
+        ],
+        "final_source": "resume_pdf"
+      },
+      {
+        "field": "phones",
+        "sources": [
+          {
+            "field": "phones",
+            "source": "csv",
+            "method": "csv_parse",
+            "confidence": 0.8,
+            "page": 1,
+            "section": "Contact",
+            "value": "['+916385582585']",
+            "timestamp": "2026-06-30T17:05:17.910019+00:00"
+          },
+          {
+            "field": "phones",
+            "source": "ats_json",
+            "method": "json_parse",
+            "confidence": 0.8,
+            "page": 1,
+            "section": "Contact",
+            "value": "['+916385582585']",
+            "timestamp": "2026-06-30T17:05:17.910019+00:00"
+          },
+          {
+            "field": "phones",
+            "source": "resume_pdf",
+            "method": "regex + rule parser",
+            "confidence": 0.9,
+            "page": 1,
+            "section": "Contact",
+            "value": "['+916385582585']",
+            "timestamp": "2026-06-30T17:05:17.910019+00:00"
+          }
+        ],
+        "final_source": "resume_pdf"
+      },
+      {
+        "field": "headline",
+        "sources": [
+          {
+            "field": "headline",
+            "source": "csv",
+            "method": "csv_parse",
+            "confidence": 0.8,
+            "page": 1,
+            "section": "Summary",
+            "value": "AI & Machine Learning Intern",
+            "timestamp": "2026-06-30T17:05:17.910019+00:00"
+          },
+          {
+            "field": "headline",
+            "source": "ats_json",
+            "method": "json_parse",
+            "confidence": 0.8,
+            "page": 1,
+            "section": "Summary",
+            "value": "AI & Machine Learning Intern",
+            "timestamp": "2026-06-30T17:05:17.910019+00:00"
+          }
+        ],
+        "final_source": "csv"
+      },
+      {
+        "field": "skills",
+        "sources": [
+          {
+            "field": "skills",
+            "source": "ats_json",
+            "method": "json_parse",
+            "confidence": 0.8,
+            "page": 1,
+            "section": "Skills",
+            "value": "['Java', 'C', 'C++', 'Python', 'Spring Boot', 'Flask', 'FastAPI', 'PyTorch']",
+            "timestamp": "2026-06-30T17:05:17.910019+00:00"
+          },
+          {
+            "field": "skills",
+            "source": "resume_pdf",
+            "method": "regex + rule parser",
+            "confidence": 0.9,
+            "page": 1,
+            "section": "Skills",
+            "value": "['Build', 'Ibm Cloud Lite', 'Python', 'Svm) To Forecast 3+ Failure', 'Categories \u2014 Tool Wear', 'Overheating', 'Hcl Tech Stack: Java', 'Sprin",
+            "timestamp": "2026-06-30T17:05:17.911216+00:00"
+          }
+        ],
+        "final_source": "resume_pdf"
+      },
+      {
+        "field": "experience",
+        "sources": [
+          {
+            "field": "experience",
+            "source": "csv",
+            "method": "csv_parse",
+            "confidence": 0.8,
+            "page": 1,
+            "section": "Experience",
+            "value": "[{'company': 'Infosys', 'title': 'AI & Machine Learning Intern', 'location': '', 'start': '', 'end': '', 'duration': '', 'tech_stack': [], '",
+            "timestamp": "2026-06-30T17:05:17.911216+00:00"
+          },
+          {
+            "field": "experience",
+            "source": "ats_json",
+            "method": "json_parse",
+            "confidence": 0.8,
+            "page": 1,
+            "section": "Experience",
+            "value": "[{'company': 'Infosys', 'title': 'AI & Machine Learning Intern', 'location': None, 'start': None, 'end': None, 'duration': None, 'tech_stack",
+            "timestamp": "2026-06-30T17:05:17.911216+00:00"
+          },
+          {
+            "field": "experience",
+            "source": "resume_pdf",
+            "method": "regex + rule parser",
+            "confidence": 0.9,
+            "page": 1,
+            "section": "Experience",
+            "value": "[{'company': 'inference output.', 'title': 'AI & Machine Learning Intern Oct 2025 \u2013 Dec 2025', 'location': 'Sri Ramakrishna Engineering Coll",
+            "timestamp": "2026-06-30T17:05:17.911216+00:00"
+          }
+        ],
+        "final_source": "resume_pdf"
+      },
+      {
+        "field": "education",
+        "sources": [
+          {
+            "field": "education",
+            "source": "ats_json",
+            "method": "json_parse",
+            "confidence": 0.8,
+            "page": 1,
+            "section": "Education",
+            "value": "[{'institution': 'Sri Ramakrishna Engineering College', 'degree': 'B.E. Computer Science and Engineering', 'field': '', 'start_year': '', 'e",
+            "timestamp": "2026-06-30T17:05:17.911216+00:00"
+          },
+          {
+            "field": "education",
+            "source": "resume_pdf",
+            "method": "regex + rule parser",
+            "confidence": 0.9,
+            "page": 1,
+            "section": "Education",
+            "value": "[{'institution': 'Sri Ramakrishna Engineering College, Coimbatore CGPA: 8.72 / 10', 'degree': 'B.E. Computer Science and Engineering Sep 202",
+            "timestamp": "2026-06-30T17:05:17.911216+00:00"
+          }
+        ],
+        "final_source": "resume_pdf"
+      },
+      {
+        "field": "location",
+        "sources": [
+          {
+            "field": "location",
+            "source": "resume_pdf",
+            "method": "regex + rule parser",
+            "confidence": 0.9,
+            "page": 1,
+            "section": "Location",
+            "value": "Coimbatore",
+            "timestamp": "2026-06-30T17:05:17.911216+00:00"
+          }
+        ],
+        "final_source": "resume_pdf"
+      },
+      {
+        "field": "links",
+        "sources": [
+          {
+            "field": "links",
+            "source": "csv",
+            "method": "csv_parse",
+            "confidence": 0.8,
+            "page": 1,
+            "section": "Links",
+            "value": "{'linkedin': 'https://www.linkedin.com/in/tarun-jayant-v-m-49a691292/', 'github': None, 'portfolio': None, 'other': []}",
+            "timestamp": "2026-06-30T17:05:17.911216+00:00"
+          },
+          {
+            "field": "links",
+            "source": "ats_json",
+            "method": "json_parse",
+            "confidence": 0.8,
+            "page": 1,
+            "section": "Links",
+            "value": "{'linkedin': None, 'github': None, 'portfolio': None, 'other': []}",
+            "timestamp": "2026-06-30T17:05:17.911216+00:00"
+          },
+          {
+            "field": "links",
+            "source": "resume_pdf",
+            "method": "regex + rule parser",
+            "confidence": 0.9,
+            "page": 1,
+            "section": "Links",
+            "value": "{'linkedin': None, 'github': None, 'portfolio': None, 'other': []}",
+            "timestamp": "2026-06-30T17:05:17.911216+00:00"
+          }
+        ],
+        "final_source": "resume_pdf"
+      },
+      {
+        "field": "years_experience",
+        "sources": [
+          {
+            "field": "years_experience",
+            "source": "ats_json",
+            "method": "json_parse",
+            "confidence": 0.8,
+            "page": 1,
+            "section": "Experience",
+            "value": "1",
+            "timestamp": "2026-06-30T17:05:17.911216+00:00"
+          }
+        ],
+        "final_source": "ats_json"
+      }
+    ],
+    "_validation": {
+      "passed": true,
+      "errors": [],
+      "warnings": []
+    }
+  }
+]
