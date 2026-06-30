@@ -125,57 +125,41 @@ This engine transforms candidate data from resumes, ATS exports, recruiter CSV f
 
 ## Implementation Screenshots
 
-### 🏠 Streamlit UI
+### Streamlit UI
 
-![Home Page](docs/screenshots/home.png)
+![Home Page](docs/screenshots/UI.png)
 
 ---
 
-### 📂 Upload Candidate Files
+###  Upload Candidate Files
 
 ![Upload](docs/screenshots/upload-files.png)
 
 ---
 
-### ⚙️ Processing Pipeline
+###  Processing Pipeline
 
 ![Processing](docs/screenshots/processing.png)
 
 ---
 
-### 👤 Candidate Profile Cards
-
-![Profile Cards](docs/screenshots/profile-card.png)
-
----
-
-### 📄 Canonical Candidate JSON
+###  Canonical Candidate JSON
 
 ![Candidate JSON](docs/screenshots/candidate-json.png)
 
 ---
 
-### ⚙️ Configurable Output
+###  Configurable Output
 
 ![Config Output](docs/screenshots/config-output.png)
 
 ---
 
-### 👨‍💼 Recruiter View
-
-![Recruiter View](docs/screenshots/recruiter-output.png)
-
----
-
-### 📈 Confidence Scoring
+###  Confidence Scoring
 
 ![Confidence](docs/screenshots/confidence.png)
 
 ---
-
-### 🔍 Provenance Tracking
-
-![Provenance](docs/screenshots/provenance.png)
 
 ## Repository Structure
 
