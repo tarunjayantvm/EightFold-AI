@@ -46,16 +46,61 @@ This engine transforms candidate data from resumes, ATS exports, recruiter CSV f
 
 ## Architecture Overview
 
-The pipeline is organized into discrete processing stages so each candidate record is ingested, normalized, merged, and validated in a reproducible sequence.
+```
+[ Streamlit UI / Inputs ]
+          |
+          v
+[ Source Detection ]
+          |
+          v
+[ Extraction Adapters ]
+   - resume PDF
+   - ATS JSON
+   - recruiter CSV
+   - GitHub URL
+   - LinkedIn URL
+          |
+          v
+[ Raw Candidate Records ]
+          |
+          v
+[ Duplicate Detection ]
+          |
+          v
+[ Canonical Mapping ]
+          |
+          v
+[ Normalization & Entity Resolution ]
+          |
+          v
+[ Merge & Conflict Resolution ]
+          |
+          v
+[ Confidence Scoring & Provenance ]
+          |
+          v
+[ Projection (configurable) ]
+          |
+          v
+[ Validation & Output ]
+          |
+          v
+[ output/output.json ]
+```
 
-- Input adapters: ingest resumes, ATS exports, recruiter CSV rows, GitHub URLs, and LinkedIn URLs.
-- Duplicate detection: group records by identity signals such as email, phone, name, or GitHub/LinkedIn profile.
-- Canonical mapping: translate raw inputs into a normalized candidate schema.
-- Normalization and entity resolution: standardize field values and resolve overlapping candidate details.
-- Merge and conflict resolution: combine grouped records into single canonical candidate profiles.
-- Confidence scoring and provenance: attach explainable confidence signals and source metadata.
-- Optional projection: apply runtime JSON projection config to shape output fields.
-- Validation and output: validate final payloads and serialize results to `output/output.json`.
+### Architecture explanation
+
+- **Streamlit UI / Inputs**: user uploads files or enters URLs that become pipeline sources.
+- **Source Detection**: the engine classifies each input as CSV, ATS JSON, resume PDF, GitHub, or LinkedIn.
+- **Extraction Adapters**: each source type is converted into a raw candidate record with a common structure.
+- **Raw Candidate Records**: all extracted records are collected and prepared for grouping.
+- **Duplicate Detection**: records are grouped by identity signals such as email, phone, name, and social profiles.
+- **Canonical Mapping**: raw source fields are mapped into a unified candidate schema.
+- **Normalization & Entity Resolution**: field values are standardized and overlapping candidate details are resolved.
+- **Merge & Conflict Resolution**: grouped records are merged into a single canonical profile per candidate, resolving conflicting values.
+- **Confidence Scoring & Provenance**: each canonical profile earns confidence signals and provenance metadata for explainability.
+- **Projection (optional)**: a runtime JSON config can reshape the output to include only requested fields.
+- **Validation & Output**: final profiles are validated and written to `output/output.json`.
 
 ## Supported Input Sources
 
