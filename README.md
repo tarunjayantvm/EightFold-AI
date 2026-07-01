@@ -269,4 +269,4 @@ Re-run the application or invoke `run_pipeline()` from `pipeline.py` with your i
 
 ## Demo Video
 
-Demo video link: https://www.loom.com/share/c8e3c571dd8d4f6db70d815e7f8e7d98
+Demo video link: https://screenrec.com/share/OaFBM1b9Yg
